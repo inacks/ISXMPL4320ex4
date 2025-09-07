@@ -14,7 +14,7 @@ software, which is a Modbus TCP/RTU Slave simulator. Configure the Slave with
 these values: Slave Address 1, 19200 baud, Even parity, and 1 Stop bit.
 
 More info at:
-- Kappa4320Ard Evaluation Board: https://www.inacks.com/kappa4320ard
+- Kappa4320Ard Evaluation Board: https://www.inacks.com/kappa4320rasp
 - IS4320 Datasheet: https://www.inacks.com/is4320
 - pyModSlave: https://www.sourceforge.net/projects/pymodslave
 - Inacks website: https://www.inacks.com
