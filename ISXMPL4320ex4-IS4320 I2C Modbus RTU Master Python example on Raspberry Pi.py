@@ -13,6 +13,11 @@ To test the example, you will need a Modbus Slave. You can use the pyModSlave
 software, which is a Modbus TCP/RTU Slave simulator. Configure the Slave with 
 these values: Slave Address 1, 19200 baud, Even parity, and 1 Stop bit.
 
+Execute this example with **sudo** to get access to the I²C interface:
+
+```bash
+sudo python "ISXMPL4320ex4-IS4320 I2C Modbus RTU Master Python example on Raspberry Pi.py"
+
 More info at:
 - Kappa4320Ard Evaluation Board: https://www.inacks.com/kappa4320rasp
 - IS4320 Datasheet: https://www.inacks.com/is4320
