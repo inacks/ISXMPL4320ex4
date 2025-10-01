@@ -157,7 +157,7 @@ while True:
 
     elif status == 3:
         # Timeout: no response from the Modbus Slave
-        print("Timeout, the slave did not answer.")
+        print("Timeout, the Modbus Slave did not answer.")
         print("Did you start the pyModSlave? Did you set its configuration to: "
               "Slave Address 1, 19200 baud, Even parity, and 1 Stop bit?")
 
