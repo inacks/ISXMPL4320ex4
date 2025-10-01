@@ -17,7 +17,7 @@ Execute this example with sudo to get access to the I2C interface:
 sudo python ISXMPL4320ex4-IS4320 I2C Modbus RTU Master Python example on Raspberry Pi.py
 
 More info at:
-- Kappa4320Ard Evaluation Board: https://www.inacks.com/kappa4320rasp
+- Kappa4320Rasp Evaluation Board: https://www.inacks.com/kappa4320rasp
 - IS4320 Datasheet: https://www.inacks.com/is4320
 - pyModSlave: https://www.sourceforge.net/projects/pymodslave
 - Inacks website: https://www.inacks.com
